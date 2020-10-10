@@ -1,0 +1,6 @@
+name = "cloudflare-coding-challenge-2020"
+type = "javascript"
+account_id = "4292b9c3ca991cbf995a50dfaba2cf21"
+workers_dev = true
+route = ""
+zone_id = "b37f894c941232323fbb701be0fe4e30"
