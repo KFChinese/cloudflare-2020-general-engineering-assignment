@@ -20,7 +20,7 @@ const links = [
 
 class AvatarTransformer {
   async element(element) {
-    element.setAttribute("src", "https://larrychiem.engineer/assets/img/profile.jpeg?h=e59b999134ee6683ef5f3068749446ee");
+    element.setAttribute("src", "https://avatars0.githubusercontent.com/u/33429605?s=460&v=4");
   }
 }
 class BackgroundTransformer {
